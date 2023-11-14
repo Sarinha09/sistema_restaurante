@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1699309807 source:c:\users\edjan\documents\aed1\trabalhofinal-aedsi\aed1 - trabalho\funções_gerenciador.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	<unistd.h>
+	"gerenciador.h"
+
+1699309804 c:\users\edjan\documents\aed1\trabalhofinal-aedsi\aed1 - trabalho\gerenciador.h
+
+1699309806 source:c:\users\edjan\documents\aed1\trabalhofinal-aedsi\aed1 - trabalho\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<unistd.h>
+	"gerenciador.h"
+
+1699309807 source:c:\users\edjan\documents\aed1\trabalhofinal-aedsi\aed1 - trabalho - grupo 2\funções_gerenciador.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	<unistd.h>
+	"gerenciador.h"
+
+1699309804 c:\users\edjan\documents\aed1\trabalhofinal-aedsi\aed1 - trabalho - grupo 2\gerenciador.h
+
+1699309807 source:c:\users\edjan\documents\aed1\trabalhofinal-aedsi\projeto\funções_gerenciador.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	<unistd.h>
+	"gerenciador.h"
+
+1699309804 c:\users\edjan\documents\aed1\trabalhofinal-aedsi\projeto\gerenciador.h
+
+1699328141 source:c:\users\edjan\documents\aed1\trabalhofinal-aedsi\projeto\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"gerenciador.h"
+

@@ -1,0 +1,5 @@
+Batata Frita,9.00
+Salada,12.50
+Frango Grelhado,18.00
+Pao de Carne com Queijo,11.50
+Sanduiche Caprese,8.50
